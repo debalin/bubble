@@ -1,0 +1,159 @@
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\BubbleMain.exe
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\BubbleMain.pdb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.exe
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.pdb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.csprojResolveAssemblyReference.cache
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background16_10.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background16_9.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background4_3.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\logo1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\logo2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu16_10.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu16_9.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu4_3.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\sun1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\sun2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\cloud1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\cloud2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\BubbleMain.exe.manifest
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\BubbleMain.application
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.exe.manifest
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.application
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\text.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleB1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleB2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleE1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleE2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleL1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleL2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleU1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleU2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\arrow1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\arrow2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel16_10.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel16_9.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel4_3.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\smallbluebubble1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\smallbluebubble2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\text.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_16_9.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\entry1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\entry2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gun1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gun2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunwind1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunwind2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level2small1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level2small2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level3small1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level3small2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level4small1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level4small2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level5small1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level5small2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block2.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\spike1.xnb
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\spike2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background16_10.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background16_9.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background4_3.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\logo1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\logo2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu16_10.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu16_9.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu4_3.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\sun1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\sun2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\cloud1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\cloud2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleB1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleB2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleE1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleE2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleL1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleL2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleU1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleU2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\arrow1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\arrow2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel16_10.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel16_9.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel4_3.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\smallbluebubble1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\smallbluebubble2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_16_9.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\entry1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\entry2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gun1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gun2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunwind1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunwind2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level2small1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level2small2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level3small1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level3small2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level4small1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level4small2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level5small1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level5small2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\spike1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\spike2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\text.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\text.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\BubbleMain.exe.manifest
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\BubbleMain.application
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\BubbleMain.exe
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\BubbleMain.pdb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.csprojResolveAssemblyReference.cache
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.exe.manifest
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.application
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.exe
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.pdb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_16_10.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_4_3.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\boundary.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\star1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\star2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\moon.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\battery1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\battery2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\powerbar1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\powerbar2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bound.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\uplowbound1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\uplowbound2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\sidebound1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\sidebound2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\text.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\scorefont.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\smallbluebubble.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block1_1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block2_1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block1_2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block2_2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle1_1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle1_2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle2_1.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle2_2.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunfont.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level2\backlevel2_4_3.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level3\backlevel3_4_3.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level4\backlevel4_4_3.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level5\backlevel5_4_3.xnb

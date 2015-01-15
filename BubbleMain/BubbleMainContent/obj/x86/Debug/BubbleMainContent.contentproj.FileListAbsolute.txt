@@ -1,0 +1,2 @@
+E:\College\Bubble\BubbleMain\BubbleMain\BubbleMainContent\obj\x86\Debug\BubbleMainContent.contentprojResolveAssemblyReference.cache
+G:\Bubble\BubbleMain\BubbleMain\BubbleMainContent\obj\x86\Debug\BubbleMainContent.contentprojResolveAssemblyReference.cache

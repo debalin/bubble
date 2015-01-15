@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleMain", "BubbleMain\BubbleMain\BubbleMain.csproj", "{FC9B3273-7D51-4FAF-BB0C-0BF825AF6784}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BubbleMainContent", "BubbleMain\BubbleMainContent\BubbleMainContent.contentproj", "{9CED91B6-4D96-4432-A53B-5F9668E1F646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC9B3273-7D51-4FAF-BB0C-0BF825AF6784}.Debug|x86.ActiveCfg = Debug|x86
+		{FC9B3273-7D51-4FAF-BB0C-0BF825AF6784}.Debug|x86.Build.0 = Debug|x86
+		{FC9B3273-7D51-4FAF-BB0C-0BF825AF6784}.Release|x86.ActiveCfg = Release|x86
+		{FC9B3273-7D51-4FAF-BB0C-0BF825AF6784}.Release|x86.Build.0 = Release|x86
+		{9CED91B6-4D96-4432-A53B-5F9668E1F646}.Debug|x86.ActiveCfg = Debug|x86
+		{9CED91B6-4D96-4432-A53B-5F9668E1F646}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

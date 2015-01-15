@@ -1,0 +1,802 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Opening Credits\background16_10.png</Source>
+      <Name>Opening Credits\background16_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background16_10.xnb</Output>
+      <Time>2013-03-12T01:07:42+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Opening Credits\background16_9.png</Source>
+      <Name>Opening Credits\background16_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background16_9.xnb</Output>
+      <Time>2013-03-12T01:07:42+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Opening Credits\background4_3.png</Source>
+      <Name>Opening Credits\background4_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background4_3.xnb</Output>
+      <Time>2013-03-12T01:07:42+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Opening Credits\logo1.png</Source>
+      <Name>Opening Credits\logo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\logo1.xnb</Output>
+      <Time>2013-03-12T02:14:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Opening Credits\logo2.png</Source>
+      <Name>Opening Credits\logo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\logo2.xnb</Output>
+      <Time>2013-03-12T02:14:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\backmenu16_10.png</Source>
+      <Name>Menu\backmenu16_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu16_10.xnb</Output>
+      <Time>2013-03-12T14:12:14+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\backmenu16_9.png</Source>
+      <Name>Menu\backmenu16_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu16_9.xnb</Output>
+      <Time>2013-03-12T14:12:14+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\backmenu4_3.png</Source>
+      <Name>Menu\backmenu4_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu4_3.xnb</Output>
+      <Time>2013-03-12T14:12:14+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\sun1.png</Source>
+      <Name>Menu\sun1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\sun1.xnb</Output>
+      <Time>2013-03-12T14:28:36+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\sun2.png</Source>
+      <Name>Menu\sun2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\sun2.xnb</Output>
+      <Time>2013-03-12T14:28:36+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\cloud1.png</Source>
+      <Name>Menu\cloud1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\cloud1.xnb</Output>
+      <Time>2013-03-12T14:40:30+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\cloud2.png</Source>
+      <Name>Menu\cloud2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\cloud2.xnb</Output>
+      <Time>2013-03-12T14:40:30+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\bluebubble1.png</Source>
+      <Name>Core Elements\bluebubble1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble1.xnb</Output>
+      <Time>2013-03-15T21:24:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\bluebubble2.png</Source>
+      <Name>Core Elements\bluebubble2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble2.xnb</Output>
+      <Time>2013-03-15T21:31:22+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\redbubble1.png</Source>
+      <Name>Core Elements\redbubble1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble1.xnb</Output>
+      <Time>2013-03-15T21:37:18+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\redbubble2.png</Source>
+      <Name>Core Elements\redbubble2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble2.xnb</Output>
+      <Time>2013-03-15T21:37:18+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\bubbleB1.png</Source>
+      <Name>Menu\bubbleB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleB1.xnb</Output>
+      <Time>2013-03-15T20:43:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\bubbleB2.png</Source>
+      <Name>Menu\bubbleB2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleB2.xnb</Output>
+      <Time>2013-03-15T20:43:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\bubbleE1.png</Source>
+      <Name>Menu\bubbleE1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleE1.xnb</Output>
+      <Time>2013-03-15T20:43:14+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\bubbleE2.png</Source>
+      <Name>Menu\bubbleE2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleE2.xnb</Output>
+      <Time>2013-03-15T20:43:14+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\bubbleL1.png</Source>
+      <Name>Menu\bubbleL1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleL1.xnb</Output>
+      <Time>2013-03-15T20:43:14+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\bubbleL2.png</Source>
+      <Name>Menu\bubbleL2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleL2.xnb</Output>
+      <Time>2013-03-15T20:46:34+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\bubbleU1.png</Source>
+      <Name>Menu\bubbleU1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleU1.xnb</Output>
+      <Time>2013-03-15T20:46:34+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\bubbleU2.png</Source>
+      <Name>Menu\bubbleU2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleU2.xnb</Output>
+      <Time>2013-03-15T20:46:34+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\arrow1.png</Source>
+      <Name>Menu\arrow1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\arrow1.xnb</Output>
+      <Time>2013-03-16T14:38:18+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\arrow2.png</Source>
+      <Name>Menu\arrow2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\arrow2.xnb</Output>
+      <Time>2013-03-16T14:38:18+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\backlevel16_10.png</Source>
+      <Name>Level\backlevel16_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel16_10.xnb</Output>
+      <Time>2013-03-16T22:54:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\backlevel16_9.png</Source>
+      <Name>Level\backlevel16_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel16_9.xnb</Output>
+      <Time>2013-03-16T22:54:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\backlevel4_3.png</Source>
+      <Name>Level\backlevel4_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel4_3.xnb</Output>
+      <Time>2013-03-16T22:54:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\level1small1.png</Source>
+      <Name>Level\level1small1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small1.xnb</Output>
+      <Time>2013-03-26T00:37:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\level1small2.png</Source>
+      <Name>Level\level1small2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small2.xnb</Output>
+      <Time>2013-03-26T00:37:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\smallbluebubble1.png</Source>
+      <Name>Level\smallbluebubble1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\smallbluebubble1.xnb</Output>
+      <Time>2013-03-17T19:15:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\smallbluebubble2.png</Source>
+      <Name>Level\smallbluebubble2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\smallbluebubble2.xnb</Output>
+      <Time>2013-03-17T19:15:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\Level1\backlevel1_16_9.png</Source>
+      <Name>Level\Level1\backlevel1_16_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_16_9.xnb</Output>
+      <Time>2013-03-22T21:51:58+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\entry1.png</Source>
+      <Name>Core Elements\entry1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\entry1.xnb</Output>
+      <Time>2013-03-25T22:05:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\entry2.png</Source>
+      <Name>Core Elements\entry2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\entry2.xnb</Output>
+      <Time>2013-03-25T22:05:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\gun1.png</Source>
+      <Name>Core Elements\gun1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gun1.xnb</Output>
+      <Time>2013-03-25T22:05:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\gun2.png</Source>
+      <Name>Core Elements\gun2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gun2.xnb</Output>
+      <Time>2013-03-25T22:05:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\gunwind1.png</Source>
+      <Name>Core Elements\gunwind1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunwind1.xnb</Output>
+      <Time>2013-03-26T00:40:32+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\gunwind2.png</Source>
+      <Name>Core Elements\gunwind2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunwind2.xnb</Output>
+      <Time>2013-03-26T00:40:32+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\level2small1.png</Source>
+      <Name>Level\level2small1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level2small1.xnb</Output>
+      <Time>2013-03-26T12:02:26+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\level2small2.png</Source>
+      <Name>Level\level2small2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level2small2.xnb</Output>
+      <Time>2013-03-26T12:02:26+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\level3small1.png</Source>
+      <Name>Level\level3small1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level3small1.xnb</Output>
+      <Time>2013-03-26T12:20:28+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\level3small2.png</Source>
+      <Name>Level\level3small2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level3small2.xnb</Output>
+      <Time>2013-03-26T12:20:28+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\level4small1.png</Source>
+      <Name>Level\level4small1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level4small1.xnb</Output>
+      <Time>2013-03-26T13:01:10+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\level4small2.png</Source>
+      <Name>Level\level4small2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level4small2.xnb</Output>
+      <Time>2013-03-26T13:01:10+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\level5small1.png</Source>
+      <Name>Level\level5small1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level5small1.xnb</Output>
+      <Time>2013-03-26T13:01:10+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\level5small2.png</Source>
+      <Name>Level\level5small2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level5small2.xnb</Output>
+      <Time>2013-03-26T13:01:10+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\spike1.png</Source>
+      <Name>Core Elements\spike1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\spike1.xnb</Output>
+      <Time>2013-03-26T13:27:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\spike2.png</Source>
+      <Name>Core Elements\spike2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\spike2.xnb</Output>
+      <Time>2013-03-26T13:27:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Opening Credits\text.spritefont</Source>
+      <Name>Opening Credits\text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text.xnb</Output>
+      <Time>2013-03-12T12:14:30+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\text.spritefont</Source>
+      <Name>Menu\text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\text.xnb</Output>
+      <Time>2013-03-13T12:56:46+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\text.spritefont</Source>
+      <Name>Level\text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\text.xnb</Output>
+      <Time>2013-03-17T20:26:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\Level1\backlevel1_16_10.png</Source>
+      <Name>Level\Level1\backlevel1_16_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_16_10.xnb</Output>
+      <Time>2013-04-04T23:03:34.3053572+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\Level1\backlevel1_4_3.png</Source>
+      <Name>Level\Level1\backlevel1_4_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_4_3.xnb</Output>
+      <Time>2013-04-04T23:03:34.3033564+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\boundary.png</Source>
+      <Name>Core Elements\boundary</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\boundary.xnb</Output>
+      <Time>2013-04-07T22:02:05.3215526+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\Level1\star1.png</Source>
+      <Name>Level\Level1\star1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\star1.xnb</Output>
+      <Time>2013-04-07T22:06:33.4105784+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\Level1\star2.png</Source>
+      <Name>Level\Level1\star2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\star2.xnb</Output>
+      <Time>2013-04-07T22:06:33.4105784+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\Level1\moon.png</Source>
+      <Name>Level\Level1\moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\moon.xnb</Output>
+      <Time>2013-04-07T22:21:48.8837699+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\battery1.png</Source>
+      <Name>Core Elements\battery1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\battery1.xnb</Output>
+      <Time>2013-04-10T22:38:45.3474516+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\battery2.png</Source>
+      <Name>Core Elements\battery2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\battery2.xnb</Output>
+      <Time>2013-04-10T22:38:45.3494517+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\powerbar1.png</Source>
+      <Name>Core Elements\powerbar1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\powerbar1.xnb</Output>
+      <Time>2013-04-10T22:38:45.3634544+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\powerbar2.png</Source>
+      <Name>Core Elements\powerbar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\powerbar2.xnb</Output>
+      <Time>2013-04-10T22:38:45.3644539+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\bound.png</Source>
+      <Name>Core Elements\bound</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bound.xnb</Output>
+      <Time>2013-04-12T00:28:39.0594291+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\uplowbound1.png</Source>
+      <Name>Core Elements\uplowbound1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\uplowbound1.xnb</Output>
+      <Time>2013-04-17T14:48:48.1452494+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\uplowbound2.png</Source>
+      <Name>Core Elements\uplowbound2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\uplowbound2.xnb</Output>
+      <Time>2013-04-17T15:04:06.9392721+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\sidebound1.png</Source>
+      <Name>Core Elements\sidebound1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\sidebound1.xnb</Output>
+      <Time>2013-04-17T19:55:06.8550667+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\sidebound2.png</Source>
+      <Name>Core Elements\sidebound2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\sidebound2.xnb</Output>
+      <Time>2013-04-17T19:55:06.8560665+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\text.spritefont</Source>
+      <Name>Core Elements\text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\text.xnb</Output>
+      <Time>2013-04-17T21:56:13.2224613+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\scorefont.spritefont</Source>
+      <Name>Core Elements\scorefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\scorefont.xnb</Output>
+      <Time>2013-04-18T00:15:52.3807962+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\smallbluebubble.png</Source>
+      <Name>Core Elements\smallbluebubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\smallbluebubble.xnb</Output>
+      <Time>2013-05-06T01:50:00.7281095+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\block1_1.png</Source>
+      <Name>Core Elements\block1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block1_1.xnb</Output>
+      <Time>2013-05-08T15:02:03.7196715+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\block2_1.png</Source>
+      <Name>Core Elements\block2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block2_1.xnb</Output>
+      <Time>2013-05-08T15:02:03.7216716+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\block1_2.png</Source>
+      <Name>Core Elements\block1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block1_2.xnb</Output>
+      <Time>2013-05-08T15:02:03.7206717+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\block2_2.png</Source>
+      <Name>Core Elements\block2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block2_2.xnb</Output>
+      <Time>2013-05-08T15:02:03.7216716+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\obstacle1_1.png</Source>
+      <Name>Core Elements\obstacle1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle1_1.xnb</Output>
+      <Time>2013-05-12T00:20:40.7056543+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\obstacle1_2.png</Source>
+      <Name>Core Elements\obstacle1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle1_2.xnb</Output>
+      <Time>2013-05-12T00:20:40.7066541+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\obstacle2_1.png</Source>
+      <Name>Core Elements\obstacle2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle2_1.xnb</Output>
+      <Time>2013-05-12T00:20:40.7066541+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\obstacle2_2.png</Source>
+      <Name>Core Elements\obstacle2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle2_2.xnb</Output>
+      <Time>2013-05-12T00:20:40.7076543+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\gunfont.spritefont</Source>
+      <Name>Core Elements\gunfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunfont.xnb</Output>
+      <Time>2013-05-13T01:34:07.0449899+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\Level2\backlevel2_4_3.png</Source>
+      <Name>Level\Level2\backlevel2_4_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level2\backlevel2_4_3.xnb</Output>
+      <Time>2013-05-16T14:07:27.9222209+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\Level3\backlevel3_4_3.png</Source>
+      <Name>Level\Level3\backlevel3_4_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level3\backlevel3_4_3.xnb</Output>
+      <Time>2013-05-16T14:17:19.6646438+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\Level4\backlevel4_4_3.png</Source>
+      <Name>Level\Level4\backlevel4_4_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level4\backlevel4_4_3.xnb</Output>
+      <Time>2013-05-16T14:42:48.1428807+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\Level5\backlevel5_4_3.png</Source>
+      <Name>Level\Level5\backlevel5_4_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level5\backlevel5_4_3.xnb</Output>
+      <Time>2013-05-16T17:03:31.8468421+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\Bubble\BubbleMain\BubbleMain\BubbleMainContent\</RootDirectory>
+      <LoggerRootDirectory>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Bubble\BubbleMain\BubbleMain\BubbleMainContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-30T13:02:50.7672634+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
