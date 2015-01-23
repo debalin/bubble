@@ -15,8 +15,10 @@ namespace BubbleMain.Core_Elements
     public class AnimateImage : Microsoft.Xna.Framework.DrawableGameComponent
     {
         private SpriteBatch spriteBatch;
-        private Texture2D texture1, texture2;
-        private bool check = true, startanimation = true, appear = true;
+        private Texture2D texture1, texture2, backuptexture1, backuptexture2;
+        public Texture2D happytexture, sadtexture, redsadtexture, redhappytexture;
+        private bool check = true, startanimation = true, appear = true, happyover = true, sadover = true, redsadover = true, redhappyover = true;
+        public bool happy = false, sad = false, redsad = false, redhappy = false;
         private short changerate, count = 0;
         private Color color1, color2;
         private float layerdepth, scale = 1;
@@ -28,6 +30,8 @@ namespace BubbleMain.Core_Elements
         {
             this.texture1 = texture1;
             this.texture2 = texture2;
+            this.backuptexture1 = texture1;
+            this.backuptexture2 = texture2;
             this.changerate = changerate;
             this.position = position;
             this.color1 = color;
@@ -41,6 +45,8 @@ namespace BubbleMain.Core_Elements
         {
             this.texture1 = texture1;
             this.texture2 = texture2;
+            this.backuptexture1 = texture1;
+            this.backuptexture2 = texture2;
             this.changerate = changerate;
             this.position = position;
             this.color1 = color1;
@@ -82,6 +88,54 @@ namespace BubbleMain.Core_Elements
 
         public override void Update(GameTime gameTime)
         {
+            if (happy)
+            {
+                texture1 = texture2 = happytexture;
+                happyover = true;
+            }
+            else if (happyover)
+            {
+                texture1 = backuptexture1;
+                texture2 = backuptexture2;
+                happyover = false;
+            }
+            
+            if (sad)
+            {
+                texture1 = texture2 = sadtexture;
+                sadover = true;
+            }
+            else if (sadover)
+            {
+                texture1 = backuptexture1;
+                texture2 = backuptexture2;
+                sadover = false;
+            }
+
+            if (redsad)
+            {
+                texture1 = texture2 = redsadtexture;
+                redsadover = true;
+            }
+            else if (redsadover)
+            {
+                texture1 = backuptexture1;
+                texture2 = backuptexture2;
+                redsadover = false;
+            }
+
+            if (redhappy)
+            {
+                texture1 = texture2 = redhappytexture;
+                redhappyover = true;
+            }
+            else if (redhappyover)
+            {
+                texture1 = backuptexture1;
+                texture2 = backuptexture2;
+                redhappyover = false;
+            }
+
             base.Update(gameTime);
         }
 

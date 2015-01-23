@@ -129,8 +129,6 @@ G:\Bubble\BubbleMain\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.pdb
 G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_16_10.xnb
 G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_4_3.xnb
 G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\boundary.xnb
-G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\star1.xnb
-G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\star2.xnb
 G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\moon.xnb
 G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\battery1.xnb
 G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\battery2.xnb
@@ -157,3 +155,27 @@ G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level2\ba
 G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level3\backlevel3_4_3.xnb
 G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level4\backlevel4_4_3.xnb
 G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level5\backlevel5_4_3.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\infotext.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\pause.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluehappy.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluesad.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redhappy.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redsad.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\happy.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\sad.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\voices.xgs
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Wave Bank.xwb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Sound Bank.xsb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Boulder-y issues.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Passive Sharpness.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Start off with a Night.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Strange Bubble World.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Machine Language.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Silent Awakening.xnb
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Boulder-y issues.wma
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Passive Sharpness.wma
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Start off with a Night.wma
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Strange Bubble World.wma
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Machine Language.wma
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Silent Awakening.wma
+G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text1.xnb

@@ -38,7 +38,7 @@ namespace BubbleMain.Core_Elements
         {
             textList[choice].Select(); //select a menu choice
 
-            if ((Keyboard.GetState().IsKeyDown(Keys.Down) || GamePad.GetState(PlayerIndex.One).ThumbSticks.Left.Y < 0.0f) && choice <= limit && flag1) //if down arrow is pressed 
+            if ((Keyboard.GetState().IsKeyDown(Keys.Down) || Keyboard.GetState().IsKeyDown(Keys.Right) || GamePad.GetState(PlayerIndex.One).ThumbSticks.Left.Y < 0.0f || GamePad.GetState(PlayerIndex.One).ThumbSticks.Left.X < 0.0f) && choice <= limit && flag1) //if down arrow is pressed 
             {
                 textList[choice].Unselect(); //unselect the current choice
                 if (choice == limit)
@@ -50,7 +50,7 @@ namespace BubbleMain.Core_Elements
                 time1 = gameTime.TotalGameTime.TotalMilliseconds;
             }
 
-            else if ((Keyboard.GetState().IsKeyDown(Keys.Up) || GamePad.GetState(PlayerIndex.One).ThumbSticks.Left.Y > 0.0f) && choice >= 0 && flag2) //if up arrow is pressed
+            else if ((Keyboard.GetState().IsKeyDown(Keys.Up) || Keyboard.GetState().IsKeyDown(Keys.Left) || GamePad.GetState(PlayerIndex.One).ThumbSticks.Left.Y > 0.0f || GamePad.GetState(PlayerIndex.One).ThumbSticks.Left.X > 0.0f) && choice >= 0 && flag2) //if up arrow is pressed
             {
                 textList[choice].Unselect(); //unselect the current choice
                 if (choice == 0)

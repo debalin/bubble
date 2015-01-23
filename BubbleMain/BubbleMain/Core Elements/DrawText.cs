@@ -21,8 +21,7 @@ namespace BubbleMain.Core_Elements
         private SpriteBatch spriteBatch;
         private bool appear = false;
         private Color color;
-        private int faderate, alpha = 255;
-        private float scale = 1f;
+        private float scale = 1f, alpha = 1f, faderate;
         
         public DrawText(Game game, String text, SpriteFont font, Vector2 position, Color color) : base(game) //without fade in 
         {
@@ -30,6 +29,7 @@ namespace BubbleMain.Core_Elements
             this.font = font;
             this.position = position;
             this.color = color;
+            this.faderate = 1f;
         }
 
         public DrawText(Game game, String text, SpriteFont font, Vector2 position, Color color, int faderate) : base(game) //with fade in
@@ -38,7 +38,7 @@ namespace BubbleMain.Core_Elements
             this.font = font;
             this.position = position;
             this.color = color;
-            this.faderate = faderate;
+            this.faderate = faderate / 255f;
             alpha = 0;
         }
         
@@ -64,10 +64,10 @@ namespace BubbleMain.Core_Elements
 
         public override void Update(GameTime gameTime)
         {
-            if (appear && alpha <= 252) //increase the alpha value continuously to simulate fading in
+            if (appear && alpha <= .98) //increase the alpha value continuously to simulate fading in
                 alpha += faderate;
 
-            if (!appear && alpha >= 3) //deecrease the alpha value continuously to simulate fading out
+            if (!appear && alpha >= .02) //decrease the alpha value continuously to simulate fading out
                 alpha -= faderate;
 
             base.Update(gameTime);
@@ -89,8 +89,8 @@ namespace BubbleMain.Core_Elements
         {
             spriteBatch = (SpriteBatch)Game.Services.GetService(typeof(SpriteBatch)); //initialize spritebatch
 
-            if (appear)
-                spriteBatch.DrawString(font, text, position, new Color(color.R, color.G, color.B, alpha), 0f, new Vector2(0, 0), scale, SpriteEffects.None, 0f);
+            //if (appear)
+                spriteBatch.DrawString(font, text, position, color * alpha, 0f, new Vector2(0, 0), scale, SpriteEffects.None, 0f);
  
             base.Draw(gameTime);
         }

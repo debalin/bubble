@@ -37,8 +37,8 @@ namespace BubbleMain.Opening_Credits
 
             actors.Add(new DrawBackground(game, Content.Load<Texture2D>(@"Opening Credits\background4_3"), Content.Load<Texture2D>(@"Opening Credits\background16_9"), Content.Load<Texture2D>(@"Opening Credits\background16_10"))); //add all the actors to the scene
             actors.Add(new AnimateImage(game, Content.Load<Texture2D>(@"Opening Credits\logo1"), Content.Load<Texture2D>(@"Opening Credits\logo2"), logoposition, 8, Color.White, 0f, 1, 1));
-            actors.Add(new DrawText(game, "   Team\nE-Crackers", Content.Load<SpriteFont>(@"Opening Credits\text"), nameposition, Color.Black, 3));
-            
+            actors.Add(new DrawText(game, "Wicked\n  Algo", Content.Load<SpriteFont>(@"Opening Credits\text"), nameposition, Color.Black, 3));
+
             base.Initialize();
         }
 

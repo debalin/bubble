@@ -22,12 +22,12 @@ namespace BubbleMain.Menu
         private float bubblemass, bubbletextmass;
         private int bluestep, redstep, index;
         private Random random;
-        private bool timecheck = true;
+        private bool timecheck = true, resettextshow = false;
         private double starttime;
         private DrawText[] textList;
-        private double tempvelx1, tempvelx2, tempvelx3, tempvelx4, tempvely1, tempvely2, collisionangle, magnitude1, magnitude2, direction1, direction2, bubbletextomega, bubbleomega;
+        private double tempvelx1, tempvelx2, tempvelx3, tempvelx4, tempvely1, tempvely2, collisionangle, magnitude1, magnitude2, direction1, direction2, bubbletextomega, bubbleomega, resettexttime;
 
-        public bool enter = false;
+        public bool enter = false, resetcomplete = false;
         public int choice = 0;
 
         public MenuScene(Game game) : base(game)
@@ -63,6 +63,7 @@ namespace BubbleMain.Menu
             bluestep = 4;
             redstep = 5;
             index = 4;
+            resettexttime = 0;
             
             actors.Add(new DrawBackground(game, Content.Load<Texture2D>(@"Menu\backmenu4_3"), Content.Load<Texture2D>(@"Menu\backmenu16_9"), Content.Load<Texture2D>(@"Menu\backmenu16_10"))); //add actors
             actors.Add(new AnimateImage(game, Content.Load<Texture2D>(@"Menu\sun1"), Content.Load<Texture2D>(@"Menu\sun2"), sunposition, 10, Color.White, 0.8f, 1, 1));
@@ -70,12 +71,14 @@ namespace BubbleMain.Menu
             actors.Add(new AnimateImage(game, Content.Load<Texture2D>(@"Menu\cloud2"), Content.Load<Texture2D>(@"Menu\cloud1"), cloudposition2, 10, Color.White, 0f, 3, 1));
             actors.Add(new DrawText(game, "Play", Content.Load<SpriteFont>(@"Menu\text"), textstartposition, Color.White));
             textstartposition += textchangeposition;
+            actors.Add(new DrawText(game, "Reset", Content.Load<SpriteFont>(@"Menu\text"), textstartposition, Color.White));
+            textstartposition += textchangeposition;
             actors.Add(new DrawText(game, "Quit", Content.Load<SpriteFont>(@"Menu\text"), textstartposition, Color.White));
             textList = new DrawText[4];
             
-            for (int i = 0; i <= 1; i++) //create an array of menu options and feed them to TakeInput
+            for (int i = 0; i <= 2; i++) //create an array of menu options and feed them to TakeInput
                 textList[i] = (DrawText)actors[i + 4];         
-            actors.Add(new TakeInput(game, textList, 1));
+            actors.Add(new TakeInput(game, textList, 2));
 
             actors.Add(new AnimateImage(game, Content.Load<Texture2D>(@"Menu\arrow1"), Content.Load<Texture2D>(@"Menu\arrow2"), arrowposition, 10, Color.DeepSkyBlue, Color.Maroon, 0.05f, 4, 1)); //add the big bubbles in the center of the screen         
             actors.Add(new Bubble(game, bubbletextposition, bubbletextsize, bubbletextvelocity, displayratio, Vector2.Zero, bubbletextmass, bubbletextomega, false, false, Vector2.Zero));
@@ -102,20 +105,35 @@ namespace BubbleMain.Menu
                     ((DrawText)actors[i]).MakeAppear();
             }
 
+            actors.Add(new DrawText(game, "Highscores reset.", Content.Load<SpriteFont>(@"Level\infotext"), new Vector2(830, 20), Color.Black, 3));
             base.Initialize();
         }
 
         public override void Update(GameTime gameTime)
         {
-            enter = ((TakeInput)actors[6]).enter; //know what choice is selected and whether enter is pressed or not
-            choice = ((TakeInput)actors[6]).choice;
+            enter = ((TakeInput)actors[7]).enter; //know what choice is selected and whether enter is pressed or not
+            choice = ((TakeInput)actors[7]).choice;
 
-            ((AnimateImage)actors[7]).ChangePosition(arrowposition + choice * arrowchangeposition); //change the position of the arrow as the user goes through the options
+            ((AnimateImage)actors[8]).ChangePosition(arrowposition + choice * arrowchangeposition); //change the position of the arrow as the user goes through the options
             
             if (timecheck) //store the time when this part is executed for the first time
             {
                 starttime = gameTime.TotalGameTime.TotalSeconds;
                 timecheck = false;
+            }
+
+            if (resetcomplete)
+            {
+                ((DrawText)actors[21]).MakeAppear();
+                resettexttime = gameTime.TotalGameTime.TotalMilliseconds;
+                resetcomplete = false;
+                resettextshow = true;
+            }
+
+            if (resettextshow && (resettexttime + 3000 < gameTime.TotalGameTime.TotalMilliseconds))
+            {
+                ((DrawText)actors[21]).MakeDisappear();
+                resettextshow = false;
             }
 
             if (gameTime.TotalGameTime.TotalSeconds - starttime > bluestep && bluestep <= 16) //add blue bubbles
@@ -134,7 +152,7 @@ namespace BubbleMain.Menu
                 redstep += 4;
             }
 
-            for (int i = 8; i < actors.Count; i++) //check for collisions and respond accordingly
+            for (int i = 9; i < actors.Count; i++) //check for collisions and respond accordingly
             {
                 if (actors[i].GetType() == typeof(Bubble))
                 {

@@ -1,0 +1,3 @@
+Content\Level\voices.xgs
+Content\Level\Wave Bank.xwb
+Content\Level\Sound Bank.xsb

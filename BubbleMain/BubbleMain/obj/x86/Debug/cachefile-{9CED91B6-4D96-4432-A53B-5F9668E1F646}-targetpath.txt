@@ -48,14 +48,9 @@ Content\Level\level5small1.xnb
 Content\Level\level5small2.xnb
 Content\Core Elements\spike1.xnb
 Content\Core Elements\spike2.xnb
-Content\Opening Credits\text.xnb
-Content\Menu\text.xnb
-Content\Level\text.xnb
 Content\Level\Level1\backlevel1_16_10.xnb
 Content\Level\Level1\backlevel1_4_3.xnb
 Content\Core Elements\boundary.xnb
-Content\Level\Level1\star1.xnb
-Content\Level\Level1\star2.xnb
 Content\Level\Level1\moon.xnb
 Content\Core Elements\battery1.xnb
 Content\Core Elements\battery2.xnb
@@ -66,19 +61,46 @@ Content\Core Elements\uplowbound1.xnb
 Content\Core Elements\uplowbound2.xnb
 Content\Core Elements\sidebound1.xnb
 Content\Core Elements\sidebound2.xnb
-Content\Core Elements\text.xnb
-Content\Core Elements\scorefont.xnb
 Content\Core Elements\smallbluebubble.xnb
 Content\Core Elements\block1_1.xnb
-Content\Core Elements\block2_1.xnb
 Content\Core Elements\block1_2.xnb
+Content\Core Elements\block2_1.xnb
 Content\Core Elements\block2_2.xnb
 Content\Core Elements\obstacle1_1.xnb
 Content\Core Elements\obstacle1_2.xnb
 Content\Core Elements\obstacle2_1.xnb
 Content\Core Elements\obstacle2_2.xnb
-Content\Core Elements\gunfont.xnb
-Content\Level\Level2\backlevel2_4_3.xnb
 Content\Level\Level3\backlevel3_4_3.xnb
+Content\Level\Level2\backlevel2_4_3.xnb
 Content\Level\Level4\backlevel4_4_3.xnb
 Content\Level\Level5\backlevel5_4_3.xnb
+Content\Level\pause.xnb
+Content\Core Elements\bluehappy.xnb
+Content\Core Elements\bluesad.xnb
+Content\Core Elements\redhappy.xnb
+Content\Core Elements\redsad.xnb
+Content\Opening Credits\text.xnb
+Content\Menu\text.xnb
+Content\Level\text.xnb
+Content\Core Elements\text.xnb
+Content\Core Elements\scorefont.xnb
+Content\Core Elements\gunfont.xnb
+Content\Level\infotext.xnb
+Content\Opening Credits\text1.xnb
+Content\Level\happy.xnb
+Content\Level\sad.xnb
+Content\Core Elements\Boulder-y issues.xnb
+Content\Core Elements\Boulder-y issues.wma
+Content\Core Elements\Passive Sharpness.xnb
+Content\Core Elements\Passive Sharpness.wma
+Content\Core Elements\Start off with a Night.xnb
+Content\Core Elements\Start off with a Night.wma
+Content\Core Elements\Strange Bubble World.xnb
+Content\Core Elements\Strange Bubble World.wma
+Content\Core Elements\Machine Language.xnb
+Content\Core Elements\Machine Language.wma
+Content\Core Elements\Silent Awakening.xnb
+Content\Core Elements\Silent Awakening.wma
+Content\Level\voices.xgs
+Content\Level\Wave Bank.xwb
+Content\Level\Sound Bank.xsb

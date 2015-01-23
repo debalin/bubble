@@ -116,7 +116,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble1.xnb</Output>
-      <Time>2013-03-15T21:24:12+05:30</Time>
+      <Time>2013-07-16T00:35:50.136289+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\bluebubble2.png</Source>
@@ -125,7 +125,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble2.xnb</Output>
-      <Time>2013-03-15T21:31:22+05:30</Time>
+      <Time>2013-07-16T00:35:50.6483538+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\redbubble1.png</Source>
@@ -134,7 +134,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble1.xnb</Output>
-      <Time>2013-03-15T21:37:18+05:30</Time>
+      <Time>2013-07-15T02:01:38.7512821+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\redbubble2.png</Source>
@@ -143,7 +143,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble2.xnb</Output>
-      <Time>2013-03-15T21:37:18+05:30</Time>
+      <Time>2013-07-15T02:01:39.173335+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\bubbleB1.png</Source>
@@ -269,7 +269,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small1.xnb</Output>
-      <Time>2013-03-26T00:37:08+05:30</Time>
+      <Time>2013-06-03T20:21:41.2690252+05:30</Time>
     </Item>
     <Item>
       <Source>Level\level1small2.png</Source>
@@ -278,7 +278,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small2.xnb</Output>
-      <Time>2013-03-26T00:37:08+05:30</Time>
+      <Time>2013-06-03T20:21:41.7700883+05:30</Time>
     </Item>
     <Item>
       <Source>Level\smallbluebubble1.png</Source>
@@ -452,33 +452,6 @@
       <Time>2013-03-26T13:27:20+05:30</Time>
     </Item>
     <Item>
-      <Source>Opening Credits\text.spritefont</Source>
-      <Name>Opening Credits\text</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text.xnb</Output>
-      <Time>2013-03-12T12:14:30+05:30</Time>
-    </Item>
-    <Item>
-      <Source>Menu\text.spritefont</Source>
-      <Name>Menu\text</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\text.xnb</Output>
-      <Time>2013-03-13T12:56:46+05:30</Time>
-    </Item>
-    <Item>
-      <Source>Level\text.spritefont</Source>
-      <Name>Level\text</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\text.xnb</Output>
-      <Time>2013-03-17T20:26:38+05:30</Time>
-    </Item>
-    <Item>
       <Source>Level\Level1\backlevel1_16_10.png</Source>
       <Name>Level\Level1\backlevel1_16_10</Name>
       <Importer>TextureImporter</Importer>
@@ -504,24 +477,6 @@
       <Options>None</Options>
       <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\boundary.xnb</Output>
       <Time>2013-04-07T22:02:05.3215526+05:30</Time>
-    </Item>
-    <Item>
-      <Source>Level\Level1\star1.png</Source>
-      <Name>Level\Level1\star1</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\star1.xnb</Output>
-      <Time>2013-04-07T22:06:33.4105784+05:30</Time>
-    </Item>
-    <Item>
-      <Source>Level\Level1\star2.png</Source>
-      <Name>Level\Level1\star2</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\star2.xnb</Output>
-      <Time>2013-04-07T22:06:33.4105784+05:30</Time>
     </Item>
     <Item>
       <Source>Level\Level1\moon.png</Source>
@@ -614,24 +569,6 @@
       <Time>2013-04-17T19:55:06.8560665+05:30</Time>
     </Item>
     <Item>
-      <Source>Core Elements\text.spritefont</Source>
-      <Name>Core Elements\text</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\text.xnb</Output>
-      <Time>2013-04-17T21:56:13.2224613+05:30</Time>
-    </Item>
-    <Item>
-      <Source>Core Elements\scorefont.spritefont</Source>
-      <Name>Core Elements\scorefont</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\scorefont.xnb</Output>
-      <Time>2013-04-18T00:15:52.3807962+05:30</Time>
-    </Item>
-    <Item>
       <Source>Core Elements\smallbluebubble.png</Source>
       <Name>Core Elements\smallbluebubble</Name>
       <Importer>TextureImporter</Importer>
@@ -650,15 +587,6 @@
       <Time>2013-05-08T15:02:03.7196715+05:30</Time>
     </Item>
     <Item>
-      <Source>Core Elements\block2_1.png</Source>
-      <Name>Core Elements\block2_1</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block2_1.xnb</Output>
-      <Time>2013-05-08T15:02:03.7216716+05:30</Time>
-    </Item>
-    <Item>
       <Source>Core Elements\block1_2.png</Source>
       <Name>Core Elements\block1_2</Name>
       <Importer>TextureImporter</Importer>
@@ -666,6 +594,15 @@
       <Options>None</Options>
       <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block1_2.xnb</Output>
       <Time>2013-05-08T15:02:03.7206717+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\block2_1.png</Source>
+      <Name>Core Elements\block2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block2_1.xnb</Output>
+      <Time>2013-05-08T15:02:03.7216716+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\block2_2.png</Source>
@@ -713,13 +650,13 @@
       <Time>2013-05-12T00:20:40.7076543+05:30</Time>
     </Item>
     <Item>
-      <Source>Core Elements\gunfont.spritefont</Source>
-      <Name>Core Elements\gunfont</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
+      <Source>Level\Level3\backlevel3_4_3.png</Source>
+      <Name>Level\Level3\backlevel3_4_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunfont.xnb</Output>
-      <Time>2013-05-13T01:34:07.0449899+05:30</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level3\backlevel3_4_3.xnb</Output>
+      <Time>2013-05-16T14:17:19.6646438+05:30</Time>
     </Item>
     <Item>
       <Source>Level\Level2\backlevel2_4_3.png</Source>
@@ -729,15 +666,6 @@
       <Options>None</Options>
       <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level2\backlevel2_4_3.xnb</Output>
       <Time>2013-05-16T14:07:27.9222209+05:30</Time>
-    </Item>
-    <Item>
-      <Source>Level\Level3\backlevel3_4_3.png</Source>
-      <Name>Level\Level3\backlevel3_4_3</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level3\backlevel3_4_3.xnb</Output>
-      <Time>2013-05-16T14:17:19.6646438+05:30</Time>
     </Item>
     <Item>
       <Source>Level\Level4\backlevel4_4_3.png</Source>
@@ -756,6 +684,201 @@
       <Options>None</Options>
       <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level5\backlevel5_4_3.xnb</Output>
       <Time>2013-05-16T17:03:31.8468421+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\pause.png</Source>
+      <Name>Level\pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\pause.xnb</Output>
+      <Time>2013-07-19T14:43:08.2539744+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\bluehappy.png</Source>
+      <Name>Core Elements\bluehappy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluehappy.xnb</Output>
+      <Time>2013-07-24T15:13:46.4726395+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\bluesad.png</Source>
+      <Name>Core Elements\bluesad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluesad.xnb</Output>
+      <Time>2013-07-27T19:32:49.5981753+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\redhappy.png</Source>
+      <Name>Core Elements\redhappy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redhappy.xnb</Output>
+      <Time>2013-07-27T20:16:17.446163+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\redsad.png</Source>
+      <Name>Core Elements\redsad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redsad.xnb</Output>
+      <Time>2013-07-27T20:16:17.4601653+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Opening Credits\text.spritefont</Source>
+      <Name>Opening Credits\text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text.xnb</Output>
+      <Time>2013-03-12T12:14:30+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Menu\text.spritefont</Source>
+      <Name>Menu\text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\text.xnb</Output>
+      <Time>2013-03-13T12:56:46+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\text.spritefont</Source>
+      <Name>Level\text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\text.xnb</Output>
+      <Time>2013-03-17T20:26:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\text.spritefont</Source>
+      <Name>Core Elements\text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\text.xnb</Output>
+      <Time>2013-04-17T21:56:13.2224613+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\scorefont.spritefont</Source>
+      <Name>Core Elements\scorefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\scorefont.xnb</Output>
+      <Time>2013-04-18T00:15:52.3807962+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\gunfont.spritefont</Source>
+      <Name>Core Elements\gunfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunfont.xnb</Output>
+      <Time>2013-05-13T01:34:07.0449899+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\infotext.spritefont</Source>
+      <Name>Level\infotext</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\infotext.xnb</Output>
+      <Time>2013-07-18T02:38:29.7641102+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Opening Credits\text1.spritefont</Source>
+      <Name>Opening Credits\text1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text1.xnb</Output>
+      <Time>2013-10-03T02:38:09.8784604+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\happy.wav</Source>
+      <Name>Level\happy</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\happy.xnb</Output>
+      <Time>2013-10-01T13:24:32.5450763+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Level\sad.wav</Source>
+      <Name>Level\sad</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\sad.xnb</Output>
+      <Time>2013-10-01T13:24:32.5460761+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\Boulder-y issues.mp3</Source>
+      <Name>Core Elements\Boulder-y issues</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Boulder-y issues.xnb</Output>
+      <Extra>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Boulder-y issues.wma</Extra>
+      <Time>2013-10-03T02:12:44.9233289+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\Passive Sharpness.mp3</Source>
+      <Name>Core Elements\Passive Sharpness</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Passive Sharpness.xnb</Output>
+      <Extra>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Passive Sharpness.wma</Extra>
+      <Time>2013-10-03T02:12:44.9263288+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\Start off with a Night.mp3</Source>
+      <Name>Core Elements\Start off with a Night</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Start off with a Night.xnb</Output>
+      <Extra>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Start off with a Night.wma</Extra>
+      <Time>2013-10-03T02:12:44.9283296+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\Strange Bubble World.mp3</Source>
+      <Name>Core Elements\Strange Bubble World</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Strange Bubble World.xnb</Output>
+      <Extra>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Strange Bubble World.wma</Extra>
+      <Time>2013-10-03T02:12:44.9293295+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\Machine Language.mp3</Source>
+      <Name>Core Elements\Machine Language</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Machine Language.xnb</Output>
+      <Extra>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Machine Language.wma</Extra>
+      <Time>2013-10-03T02:14:42.6863208+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Core Elements\Silent Awakening.mp3</Source>
+      <Name>Core Elements\Silent Awakening</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Silent Awakening.xnb</Output>
+      <Extra>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Silent Awakening.wma</Extra>
+      <Time>2013-10-03T02:14:42.6883208+05:30</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -794,8 +917,8 @@
         <Value>2010-08-23T12:41:18+05:30</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2013-03-30T13:02:50.7672634+05:30</Value>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-18T23:27:16.1776684+05:30</Value>
       </Assembly>
     </Assemblies>
   </Asset>
