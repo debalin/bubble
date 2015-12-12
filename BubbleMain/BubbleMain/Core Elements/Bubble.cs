@@ -186,7 +186,7 @@ namespace BubbleMain.Core_Elements
                 }
                 inertia = (mass * (size.X * size.X) / 8);
                 
-                velocity = new Vector2((float)(velocity.X - Math.Sign(velocity.X) * 0.08f * time), (float)(velocity.Y - accelerationY * time)); //calculate velocity after couting the effect of air resistance
+                velocity = new Vector2((float)(velocity.X - Math.Sign(velocity.X) * 0.08f * time), (float)(velocity.Y - accelerationY * time)); //calculate velocity after counting the effect of air resistance
                 kinetic = (float)0.5 * mass * (velocity.X * velocity.X + velocity.Y * velocity.Y); //calculate kinetic energy
                 angkinetic = 0.5f * inertia * (float)(omega * omega); //calculate angular kinetic energy
 

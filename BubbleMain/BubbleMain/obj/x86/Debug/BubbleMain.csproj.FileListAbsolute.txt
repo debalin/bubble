@@ -179,3 +179,119 @@ G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\S
 G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Machine Language.wma
 G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Silent Awakening.wma
 G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background16_10.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background16_9.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background4_3.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\logo1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\logo2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu16_10.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu16_9.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu4_3.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\sun1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\sun2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\cloud1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\cloud2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleB1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleB2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleE1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleE2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleL1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleL2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleU1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleU2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\arrow1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\arrow2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel16_10.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel16_9.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel4_3.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\smallbluebubble1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\smallbluebubble2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_16_9.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\entry1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\entry2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gun1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gun2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunwind1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunwind2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level2small1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level2small2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level3small1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level3small2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level4small1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level4small2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level5small1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level5small2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\spike1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\spike2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_16_10.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_4_3.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\boundary.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\moon.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\battery1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\battery2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\powerbar1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\powerbar2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bound.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\uplowbound1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\uplowbound2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\sidebound1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\sidebound2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\smallbluebubble.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block1_1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block1_2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block2_1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block2_2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle1_1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle1_2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle2_1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle2_2.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level3\backlevel3_4_3.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level2\backlevel2_4_3.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level4\backlevel4_4_3.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level5\backlevel5_4_3.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\pause.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluehappy.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluesad.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redhappy.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redsad.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\text.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\text.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\text.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\scorefont.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunfont.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\infotext.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text1.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\happy.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\sad.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Boulder-y issues.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Passive Sharpness.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Start off with a Night.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Strange Bubble World.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Machine Language.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Silent Awakening.xnb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Boulder-y issues.wma
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Passive Sharpness.wma
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Start off with a Night.wma
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Strange Bubble World.wma
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Machine Language.wma
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Silent Awakening.wma
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\voices.xgs
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Wave Bank.xwb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Sound Bank.xsb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\BubbleMain.exe.manifest
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\BubbleMain.application
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\BubbleMain.exe
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\BubbleMain.pdb
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.csprojResolveAssemblyReference.cache
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.exe.manifest
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.application
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.exe
+D:\Indie\Git\bubble\BubbleMain\BubbleMain\obj\x86\Debug\BubbleMain.pdb
