@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background16_10.xnb</Output>
-      <Time>2015-08-03T22:03:29.3799203-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background16_10.xnb</Output>
+      <Time>2013-03-12T01:07:42+05:30</Time>
     </Item>
     <Item>
       <Source>Opening Credits\background16_9.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background16_9.xnb</Output>
-      <Time>2015-08-03T22:03:29.4009233-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background16_9.xnb</Output>
+      <Time>2013-03-12T01:07:42+05:30</Time>
     </Item>
     <Item>
       <Source>Opening Credits\background4_3.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background4_3.xnb</Output>
-      <Time>2015-08-03T22:03:29.4639943-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\background4_3.xnb</Output>
+      <Time>2013-03-12T01:07:42+05:30</Time>
     </Item>
     <Item>
       <Source>Opening Credits\logo1.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\logo1.xnb</Output>
-      <Time>2015-08-03T22:03:29.4659947-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\logo1.xnb</Output>
+      <Time>2013-03-12T02:14:20+05:30</Time>
     </Item>
     <Item>
       <Source>Opening Credits\logo2.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\logo2.xnb</Output>
-      <Time>2015-08-03T22:03:29.4679946-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\logo2.xnb</Output>
+      <Time>2013-03-12T02:14:20+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\backmenu16_10.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu16_10.xnb</Output>
-      <Time>2015-08-03T22:03:29.2448831-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu16_10.xnb</Output>
+      <Time>2013-03-12T14:12:14+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\backmenu16_9.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu16_9.xnb</Output>
-      <Time>2015-08-03T22:03:29.2678851-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu16_9.xnb</Output>
+      <Time>2013-03-12T14:12:14+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\backmenu4_3.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu4_3.xnb</Output>
-      <Time>2015-08-03T22:03:29.3339182-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\backmenu4_3.xnb</Output>
+      <Time>2013-03-12T14:12:14+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\sun1.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\sun1.xnb</Output>
-      <Time>2015-08-03T22:03:29.3569179-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\sun1.xnb</Output>
+      <Time>2013-03-12T14:28:36+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\sun2.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\sun2.xnb</Output>
-      <Time>2015-08-03T22:03:29.3589187-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\sun2.xnb</Output>
+      <Time>2013-03-12T14:28:36+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\cloud1.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\cloud1.xnb</Output>
-      <Time>2015-08-03T22:03:29.3519176-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\cloud1.xnb</Output>
+      <Time>2013-03-12T14:40:30+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\cloud2.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\cloud2.xnb</Output>
-      <Time>2015-08-03T22:03:29.3549193-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\cloud2.xnb</Output>
+      <Time>2013-03-12T14:40:30+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\bluebubble1.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble1.xnb</Output>
-      <Time>2015-08-03T22:03:28.4833693-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble1.xnb</Output>
+      <Time>2013-07-16T00:35:50.136289+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\bluebubble2.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble2.xnb</Output>
-      <Time>2015-08-03T22:03:28.4843697-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluebubble2.xnb</Output>
+      <Time>2013-07-16T00:35:50.6483538+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\redbubble1.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble1.xnb</Output>
-      <Time>2015-08-03T22:03:28.5742317-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble1.xnb</Output>
+      <Time>2013-07-15T02:01:38.7512821+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\redbubble2.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble2.xnb</Output>
-      <Time>2015-08-03T22:03:28.5752312-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redbubble2.xnb</Output>
+      <Time>2013-07-15T02:01:39.173335+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\bubbleB1.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleB1.xnb</Output>
-      <Time>2015-08-03T22:03:29.3359167-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleB1.xnb</Output>
+      <Time>2013-03-15T20:43:12+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\bubbleB2.png</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleB2.xnb</Output>
-      <Time>2015-08-03T22:03:29.3369167-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleB2.xnb</Output>
+      <Time>2013-03-15T20:43:12+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\bubbleE1.png</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleE1.xnb</Output>
-      <Time>2015-08-03T22:03:29.3389176-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleE1.xnb</Output>
+      <Time>2013-03-15T20:43:14+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\bubbleE2.png</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleE2.xnb</Output>
-      <Time>2015-08-03T22:03:29.3399175-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleE2.xnb</Output>
+      <Time>2013-03-15T20:43:14+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\bubbleL1.png</Source>
@@ -187,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleL1.xnb</Output>
-      <Time>2015-08-03T22:03:29.3449183-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleL1.xnb</Output>
+      <Time>2013-03-15T20:43:14+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\bubbleL2.png</Source>
@@ -196,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleL2.xnb</Output>
-      <Time>2015-08-03T22:03:29.3469177-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleL2.xnb</Output>
+      <Time>2013-03-15T20:46:34+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\bubbleU1.png</Source>
@@ -205,8 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleU1.xnb</Output>
-      <Time>2015-08-03T22:03:29.3479172-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleU1.xnb</Output>
+      <Time>2013-03-15T20:46:34+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\bubbleU2.png</Source>
@@ -214,8 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleU2.xnb</Output>
-      <Time>2015-08-03T22:03:29.3499176-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\bubbleU2.xnb</Output>
+      <Time>2013-03-15T20:46:34+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\arrow1.png</Source>
@@ -223,8 +223,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\arrow1.xnb</Output>
-      <Time>2015-08-03T22:03:29.2268819-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\arrow1.xnb</Output>
+      <Time>2013-03-16T14:38:18+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\arrow2.png</Source>
@@ -232,8 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\arrow2.xnb</Output>
-      <Time>2015-08-03T22:03:29.2288837-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\arrow2.xnb</Output>
+      <Time>2013-03-16T14:38:18+05:30</Time>
     </Item>
     <Item>
       <Source>Level\backlevel16_10.png</Source>
@@ -241,8 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel16_10.xnb</Output>
-      <Time>2015-08-03T22:03:29.0852509-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel16_10.xnb</Output>
+      <Time>2013-03-16T22:54:54+05:30</Time>
     </Item>
     <Item>
       <Source>Level\backlevel16_9.png</Source>
@@ -250,8 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel16_9.xnb</Output>
-      <Time>2015-08-03T22:03:29.1042493-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel16_9.xnb</Output>
+      <Time>2013-03-16T22:54:54+05:30</Time>
     </Item>
     <Item>
       <Source>Level\backlevel4_3.png</Source>
@@ -259,8 +259,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel4_3.xnb</Output>
-      <Time>2015-08-03T22:03:29.1212505-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\backlevel4_3.xnb</Output>
+      <Time>2013-03-16T22:54:54+05:30</Time>
     </Item>
     <Item>
       <Source>Level\level1small1.png</Source>
@@ -268,8 +268,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small1.xnb</Output>
-      <Time>2015-08-03T22:03:29.1342519-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small1.xnb</Output>
+      <Time>2013-06-03T20:21:41.2690252+05:30</Time>
     </Item>
     <Item>
       <Source>Level\level1small2.png</Source>
@@ -277,8 +277,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small2.xnb</Output>
-      <Time>2015-08-03T22:03:29.1352524-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level1small2.xnb</Output>
+      <Time>2013-06-03T20:21:41.7700883+05:30</Time>
     </Item>
     <Item>
       <Source>Level\smallbluebubble1.png</Source>
@@ -286,8 +286,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\smallbluebubble1.xnb</Output>
-      <Time>2015-08-03T22:03:29.2068826-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\smallbluebubble1.xnb</Output>
+      <Time>2013-03-17T19:15:38+05:30</Time>
     </Item>
     <Item>
       <Source>Level\smallbluebubble2.png</Source>
@@ -295,8 +295,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\smallbluebubble2.xnb</Output>
-      <Time>2015-08-03T22:03:29.2108824-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\smallbluebubble2.xnb</Output>
+      <Time>2013-03-17T19:15:38+05:30</Time>
     </Item>
     <Item>
       <Source>Level\Level1\backlevel1_16_9.png</Source>
@@ -304,8 +304,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_16_9.xnb</Output>
-      <Time>2015-08-03T22:03:28.7335527-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_16_9.xnb</Output>
+      <Time>2013-03-22T21:51:58+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\entry1.png</Source>
@@ -313,8 +313,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\entry1.xnb</Output>
-      <Time>2015-08-03T22:03:28.4963697-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\entry1.xnb</Output>
+      <Time>2013-03-25T22:05:12+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\entry2.png</Source>
@@ -322,8 +322,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\entry2.xnb</Output>
-      <Time>2015-08-03T22:03:28.4983697-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\entry2.xnb</Output>
+      <Time>2013-03-25T22:05:12+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\gun1.png</Source>
@@ -331,8 +331,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gun1.xnb</Output>
-      <Time>2015-08-03T22:03:28.5003715-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gun1.xnb</Output>
+      <Time>2013-03-25T22:05:12+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\gun2.png</Source>
@@ -340,8 +340,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gun2.xnb</Output>
-      <Time>2015-08-03T22:03:28.50137-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gun2.xnb</Output>
+      <Time>2013-03-25T22:05:12+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\gunwind1.png</Source>
@@ -349,8 +349,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunwind1.xnb</Output>
-      <Time>2015-08-03T22:03:28.5123743-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunwind1.xnb</Output>
+      <Time>2013-03-26T00:40:32+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\gunwind2.png</Source>
@@ -358,8 +358,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunwind2.xnb</Output>
-      <Time>2015-08-03T22:03:28.5133715-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunwind2.xnb</Output>
+      <Time>2013-03-26T00:40:32+05:30</Time>
     </Item>
     <Item>
       <Source>Level\level2small1.png</Source>
@@ -367,8 +367,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level2small1.xnb</Output>
-      <Time>2015-08-03T22:03:29.1382523-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level2small1.xnb</Output>
+      <Time>2013-03-26T12:02:26+05:30</Time>
     </Item>
     <Item>
       <Source>Level\level2small2.png</Source>
@@ -376,8 +376,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level2small2.xnb</Output>
-      <Time>2015-08-03T22:03:29.1412521-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level2small2.xnb</Output>
+      <Time>2013-03-26T12:02:26+05:30</Time>
     </Item>
     <Item>
       <Source>Level\level3small1.png</Source>
@@ -385,8 +385,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level3small1.xnb</Output>
-      <Time>2015-08-03T22:03:29.1432521-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level3small1.xnb</Output>
+      <Time>2013-03-26T12:20:28+05:30</Time>
     </Item>
     <Item>
       <Source>Level\level3small2.png</Source>
@@ -394,8 +394,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level3small2.xnb</Output>
-      <Time>2015-08-03T22:03:29.145252-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level3small2.xnb</Output>
+      <Time>2013-03-26T12:20:28+05:30</Time>
     </Item>
     <Item>
       <Source>Level\level4small1.png</Source>
@@ -403,8 +403,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level4small1.xnb</Output>
-      <Time>2015-08-03T22:03:29.1482533-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level4small1.xnb</Output>
+      <Time>2013-03-26T13:01:10+05:30</Time>
     </Item>
     <Item>
       <Source>Level\level4small2.png</Source>
@@ -412,8 +412,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level4small2.xnb</Output>
-      <Time>2015-08-03T22:03:29.1492523-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level4small2.xnb</Output>
+      <Time>2013-03-26T13:01:10+05:30</Time>
     </Item>
     <Item>
       <Source>Level\level5small1.png</Source>
@@ -421,8 +421,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level5small1.xnb</Output>
-      <Time>2015-08-03T22:03:29.1512537-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level5small1.xnb</Output>
+      <Time>2013-03-26T13:01:10+05:30</Time>
     </Item>
     <Item>
       <Source>Level\level5small2.png</Source>
@@ -430,8 +430,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level5small2.xnb</Output>
-      <Time>2015-08-03T22:03:29.1522527-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\level5small2.xnb</Output>
+      <Time>2013-03-26T13:01:10+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\spike1.png</Source>
@@ -439,8 +439,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\spike1.xnb</Output>
-      <Time>2015-08-03T22:03:28.6252942-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\spike1.xnb</Output>
+      <Time>2013-03-26T13:27:20+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\spike2.png</Source>
@@ -448,8 +448,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\spike2.xnb</Output>
-      <Time>2015-08-03T22:03:28.6262937-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\spike2.xnb</Output>
+      <Time>2013-03-26T13:27:20+05:30</Time>
     </Item>
     <Item>
       <Source>Level\Level1\backlevel1_16_10.png</Source>
@@ -457,8 +457,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_16_10.xnb</Output>
-      <Time>2015-08-03T22:03:28.7145361-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_16_10.xnb</Output>
+      <Time>2013-04-04T23:03:34.3053572+05:30</Time>
     </Item>
     <Item>
       <Source>Level\Level1\backlevel1_4_3.png</Source>
@@ -466,8 +466,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_4_3.xnb</Output>
-      <Time>2015-08-03T22:03:28.8631057-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\backlevel1_4_3.xnb</Output>
+      <Time>2013-04-04T23:03:34.3033564+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\boundary.png</Source>
@@ -475,8 +475,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\boundary.xnb</Output>
-      <Time>2015-08-03T22:03:28.4953702-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\boundary.xnb</Output>
+      <Time>2013-04-07T22:02:05.3215526+05:30</Time>
     </Item>
     <Item>
       <Source>Level\Level1\moon.png</Source>
@@ -484,8 +484,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\moon.xnb</Output>
-      <Time>2015-08-03T22:03:28.8651066-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level1\moon.xnb</Output>
+      <Time>2013-04-07T22:21:48.8837699+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\battery1.png</Source>
@@ -493,8 +493,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\battery1.xnb</Output>
-      <Time>2015-08-03T22:03:28.4743691-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\battery1.xnb</Output>
+      <Time>2013-04-10T22:38:45.3474516+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\battery2.png</Source>
@@ -502,8 +502,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\battery2.xnb</Output>
-      <Time>2015-08-03T22:03:28.4753691-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\battery2.xnb</Output>
+      <Time>2013-04-10T22:38:45.3494517+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\powerbar1.png</Source>
@@ -511,8 +511,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\powerbar1.xnb</Output>
-      <Time>2015-08-03T22:03:28.5692318-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\powerbar1.xnb</Output>
+      <Time>2013-04-10T22:38:45.3634544+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\powerbar2.png</Source>
@@ -520,8 +520,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\powerbar2.xnb</Output>
-      <Time>2015-08-03T22:03:28.5722313-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\powerbar2.xnb</Output>
+      <Time>2013-04-10T22:38:45.3644539+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\bound.png</Source>
@@ -529,8 +529,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bound.xnb</Output>
-      <Time>2015-08-03T22:03:28.4933689-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bound.xnb</Output>
+      <Time>2013-04-12T00:28:39.0594291+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\uplowbound1.png</Source>
@@ -538,8 +538,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\uplowbound1.xnb</Output>
-      <Time>2015-08-03T22:03:28.6640689-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\uplowbound1.xnb</Output>
+      <Time>2013-04-17T14:48:48.1452494+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\uplowbound2.png</Source>
@@ -547,8 +547,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\uplowbound2.xnb</Output>
-      <Time>2015-08-03T22:03:28.6680711-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\uplowbound2.xnb</Output>
+      <Time>2013-04-17T15:04:06.9392721+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\sidebound1.png</Source>
@@ -556,8 +556,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\sidebound1.xnb</Output>
-      <Time>2015-08-03T22:03:28.6182945-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\sidebound1.xnb</Output>
+      <Time>2013-04-17T19:55:06.8550667+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\sidebound2.png</Source>
@@ -565,8 +565,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\sidebound2.xnb</Output>
-      <Time>2015-08-03T22:03:28.6192945-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\sidebound2.xnb</Output>
+      <Time>2013-04-17T19:55:06.8560665+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\smallbluebubble.png</Source>
@@ -574,8 +574,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\smallbluebubble.xnb</Output>
-      <Time>2015-08-03T22:03:28.6232943-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\smallbluebubble.xnb</Output>
+      <Time>2013-05-06T01:50:00.7281095+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\block1_1.png</Source>
@@ -583,8 +583,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block1_1.xnb</Output>
-      <Time>2015-08-03T22:03:28.4773695-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block1_1.xnb</Output>
+      <Time>2013-05-08T15:02:03.7196715+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\block1_2.png</Source>
@@ -592,8 +592,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block1_2.xnb</Output>
-      <Time>2015-08-03T22:03:28.478369-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block1_2.xnb</Output>
+      <Time>2013-05-08T15:02:03.7206717+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\block2_1.png</Source>
@@ -601,8 +601,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block2_1.xnb</Output>
-      <Time>2015-08-03T22:03:28.4803708-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block2_1.xnb</Output>
+      <Time>2013-05-08T15:02:03.7216716+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\block2_2.png</Source>
@@ -610,8 +610,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block2_2.xnb</Output>
-      <Time>2015-08-03T22:03:28.4823698-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\block2_2.xnb</Output>
+      <Time>2013-05-08T15:02:03.7216716+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\obstacle1_1.png</Source>
@@ -619,8 +619,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle1_1.xnb</Output>
-      <Time>2015-08-03T22:03:28.5612326-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle1_1.xnb</Output>
+      <Time>2013-05-12T00:20:40.7056543+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\obstacle1_2.png</Source>
@@ -628,8 +628,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle1_2.xnb</Output>
-      <Time>2015-08-03T22:03:28.5632306-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle1_2.xnb</Output>
+      <Time>2013-05-12T00:20:40.7066541+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\obstacle2_1.png</Source>
@@ -637,8 +637,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle2_1.xnb</Output>
-      <Time>2015-08-03T22:03:28.5642311-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle2_1.xnb</Output>
+      <Time>2013-05-12T00:20:40.7066541+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\obstacle2_2.png</Source>
@@ -646,8 +646,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle2_2.xnb</Output>
-      <Time>2015-08-03T22:03:28.565231-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\obstacle2_2.xnb</Output>
+      <Time>2013-05-12T00:20:40.7076543+05:30</Time>
     </Item>
     <Item>
       <Source>Level\Level3\backlevel3_4_3.png</Source>
@@ -655,8 +655,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level3\backlevel3_4_3.xnb</Output>
-      <Time>2015-08-03T22:03:28.9251096-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level3\backlevel3_4_3.xnb</Output>
+      <Time>2013-05-16T14:17:19.6646438+05:30</Time>
     </Item>
     <Item>
       <Source>Level\Level2\backlevel2_4_3.png</Source>
@@ -664,8 +664,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level2\backlevel2_4_3.xnb</Output>
-      <Time>2015-08-03T22:03:28.8961083-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level2\backlevel2_4_3.xnb</Output>
+      <Time>2013-05-16T14:07:27.9222209+05:30</Time>
     </Item>
     <Item>
       <Source>Level\Level4\backlevel4_4_3.png</Source>
@@ -673,8 +673,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level4\backlevel4_4_3.xnb</Output>
-      <Time>2015-08-03T22:03:28.9541188-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level4\backlevel4_4_3.xnb</Output>
+      <Time>2013-05-16T14:42:48.1428807+05:30</Time>
     </Item>
     <Item>
       <Source>Level\Level5\backlevel5_4_3.png</Source>
@@ -682,8 +682,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level5\backlevel5_4_3.xnb</Output>
-      <Time>2015-08-03T22:03:28.9831168-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\Level5\backlevel5_4_3.xnb</Output>
+      <Time>2013-05-16T17:03:31.8468421+05:30</Time>
     </Item>
     <Item>
       <Source>Level\pause.png</Source>
@@ -691,8 +691,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\pause.xnb</Output>
-      <Time>2015-08-03T22:03:29.1532522-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\pause.xnb</Output>
+      <Time>2013-07-19T14:43:08.2539744+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\bluehappy.png</Source>
@@ -700,8 +700,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluehappy.xnb</Output>
-      <Time>2015-08-03T22:03:28.4873691-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluehappy.xnb</Output>
+      <Time>2013-07-24T15:13:46.4726395+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\bluesad.png</Source>
@@ -709,8 +709,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluesad.xnb</Output>
-      <Time>2015-08-03T22:03:28.4913713-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\bluesad.xnb</Output>
+      <Time>2013-07-27T19:32:49.5981753+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\redhappy.png</Source>
@@ -718,8 +718,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redhappy.xnb</Output>
-      <Time>2015-08-03T22:03:28.5792324-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redhappy.xnb</Output>
+      <Time>2013-07-27T20:16:17.446163+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\redsad.png</Source>
@@ -727,8 +727,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redsad.xnb</Output>
-      <Time>2015-08-03T22:03:28.5802314-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\redsad.xnb</Output>
+      <Time>2013-07-27T20:16:17.4601653+05:30</Time>
     </Item>
     <Item>
       <Source>Opening Credits\text.spritefont</Source>
@@ -736,8 +736,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text.xnb</Output>
-      <Time>2015-08-03T22:03:29.4749949-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text.xnb</Output>
+      <Time>2013-03-12T12:14:30+05:30</Time>
     </Item>
     <Item>
       <Source>Menu\text.spritefont</Source>
@@ -745,8 +745,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\text.xnb</Output>
-      <Time>2015-08-03T22:03:29.3609186-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Menu\text.xnb</Output>
+      <Time>2013-03-13T12:56:46+05:30</Time>
     </Item>
     <Item>
       <Source>Level\text.spritefont</Source>
@@ -754,8 +754,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\text.xnb</Output>
-      <Time>2015-08-03T22:03:29.2168827-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\text.xnb</Output>
+      <Time>2013-03-17T20:26:38+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\text.spritefont</Source>
@@ -763,8 +763,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\text.xnb</Output>
-      <Time>2015-08-03T22:03:28.6312945-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\text.xnb</Output>
+      <Time>2013-04-17T21:56:13.2224613+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\scorefont.spritefont</Source>
@@ -772,8 +772,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\scorefont.xnb</Output>
-      <Time>2015-08-03T22:03:28.6162913-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\scorefont.xnb</Output>
+      <Time>2013-04-18T00:15:52.3807962+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\gunfont.spritefont</Source>
@@ -781,8 +781,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunfont.xnb</Output>
-      <Time>2015-08-03T22:03:28.5103711-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\gunfont.xnb</Output>
+      <Time>2013-05-13T01:34:07.0449899+05:30</Time>
     </Item>
     <Item>
       <Source>Level\infotext.spritefont</Source>
@@ -790,8 +790,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\infotext.xnb</Output>
-      <Time>2015-08-03T22:03:29.1332515-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\infotext.xnb</Output>
+      <Time>2013-07-18T02:38:29.7641102+05:30</Time>
     </Item>
     <Item>
       <Source>Opening Credits\text1.spritefont</Source>
@@ -799,8 +799,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text1.xnb</Output>
-      <Time>2015-08-03T22:03:29.482996-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Opening Credits\text1.xnb</Output>
+      <Time>2013-10-03T02:38:09.8784604+05:30</Time>
     </Item>
     <Item>
       <Source>Level\happy.wav</Source>
@@ -808,8 +808,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\happy.xnb</Output>
-      <Time>2015-08-03T22:03:29.1322506-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\happy.xnb</Output>
+      <Time>2013-10-01T13:24:32.5450763+05:30</Time>
     </Item>
     <Item>
       <Source>Level\sad.wav</Source>
@@ -817,8 +817,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\sad.xnb</Output>
-      <Time>2015-08-03T22:03:29.2048808-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Level\sad.xnb</Output>
+      <Time>2013-10-01T13:24:32.5460761+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\Boulder-y issues.mp3</Source>
@@ -826,9 +826,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Boulder-y issues.xnb</Output>
-      <Extra>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Boulder-y issues.wma</Extra>
-      <Time>2015-08-03T22:03:27.724475-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Boulder-y issues.xnb</Output>
+      <Extra>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Boulder-y issues.wma</Extra>
+      <Time>2013-10-03T02:12:44.9233289+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\Passive Sharpness.mp3</Source>
@@ -836,9 +836,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Passive Sharpness.xnb</Output>
-      <Extra>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Passive Sharpness.wma</Extra>
-      <Time>2015-08-03T22:03:28.3433616-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Passive Sharpness.xnb</Output>
+      <Extra>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Passive Sharpness.wma</Extra>
+      <Time>2013-10-03T02:12:44.9263288+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\Start off with a Night.mp3</Source>
@@ -846,9 +846,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Start off with a Night.xnb</Output>
-      <Extra>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Start off with a Night.wma</Extra>
-      <Time>2015-08-03T22:03:28.4323743-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Start off with a Night.xnb</Output>
+      <Extra>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Start off with a Night.wma</Extra>
+      <Time>2013-10-03T02:12:44.9283296+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\Strange Bubble World.mp3</Source>
@@ -856,9 +856,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Strange Bubble World.xnb</Output>
-      <Extra>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Strange Bubble World.wma</Extra>
-      <Time>2015-08-03T22:03:28.4683773-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Strange Bubble World.xnb</Output>
+      <Extra>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Strange Bubble World.wma</Extra>
+      <Time>2013-10-03T02:12:44.9293295+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\Machine Language.mp3</Source>
@@ -866,9 +866,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Machine Language.xnb</Output>
-      <Extra>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Machine Language.wma</Extra>
-      <Time>2015-08-03T22:03:27.8545031-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Machine Language.xnb</Output>
+      <Extra>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Machine Language.wma</Extra>
+      <Time>2013-10-03T02:14:42.6863208+05:30</Time>
     </Item>
     <Item>
       <Source>Core Elements\Silent Awakening.mp3</Source>
@@ -876,9 +876,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Silent Awakening.xnb</Output>
-      <Extra>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Silent Awakening.wma</Extra>
-      <Time>2015-08-03T22:03:28.3923627-05:00</Time>
+      <Output>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Silent Awakening.xnb</Output>
+      <Extra>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\Core Elements\Silent Awakening.wma</Extra>
+      <Time>2013-10-03T02:14:42.6883208+05:30</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -886,39 +886,39 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\Indie\Git\bubble\BubbleMain\BubbleMainContent\</RootDirectory>
-      <LoggerRootDirectory>D:\Indie\Git\bubble\BubbleMain\BubbleMain\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\Indie\Git\bubble\BubbleMain\BubbleMainContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\Indie\Git\bubble\BubbleMain\BubbleMain\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>G:\Bubble\BubbleMain\BubbleMain\BubbleMainContent\</RootDirectory>
+      <LoggerRootDirectory>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Bubble\BubbleMain\BubbleMain\BubbleMainContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Bubble\BubbleMain\BubbleMain\BubbleMain\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2010-08-23T12:41:18-05:00</Value>
+        <Value>2010-08-23T12:41:18+05:30</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2010-08-23T12:41:18-05:00</Value>
+        <Value>2010-08-23T12:41:18+05:30</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2010-08-23T12:41:18-05:00</Value>
+        <Value>2010-08-23T12:41:18+05:30</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2010-08-23T12:41:18-05:00</Value>
+        <Value>2010-08-23T12:41:18+05:30</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2010-08-23T12:41:18-05:00</Value>
+        <Value>2010-08-23T12:41:18+05:30</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2010-08-23T12:41:18-05:00</Value>
+        <Value>2010-08-23T12:41:18+05:30</Value>
       </Assembly>
       <Assembly>
         <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2015-08-03T21:18:44.6530665-05:00</Value>
+        <Value>2013-10-18T23:27:16.1776684+05:30</Value>
       </Assembly>
     </Assemblies>
   </Asset>
